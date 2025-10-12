@@ -10,8 +10,5 @@
 </p>
 
 <p align=right>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=making-a-scene.making-a-scene"/>
-  <a href="https://github.com/making-a-scene"><img src="https://img.shields.io/badge/Github-181717?style=square&logo=github&logoColor=#181717&link=https://github.com/making-a-scene"/></a>
- <a href="https://velog.io/@making-a-scene"><img src="https://img.shields.io/badge/Velog-11B48A?style=square&logo=Vimeo&logoColor=white&link=https://velog.io/@making-a-scene"/></a>
- <a href="https://making-a-scene.notion.site/saram?v=e0773a5b84bb45ea8c7ae434269d7cd6&pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=square&logo=notion&logoColor=white&link=https://making-a-scene.notion.site/saram?v=e0773a5b84bb45ea8c7ae434269d7cd6&pvs=4"/></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=mandu5.mandu5"/>
 </p>
