@@ -16,4 +16,4 @@ Forward Deployed Engineer at KRAFTON. I get AI working inside real teams, and I 
 | [claude-drift](https://github.com/mandu5/claude-drift) | Replays your own Claude Code sessions against a new model to show what actually changed. On PyPI. |
 | [jevcompat](https://github.com/mandu5/jevcompat) | A testable spec and conformance suite for Jev-compatible API servers. |
 
-[mandu05.com](https://mandu05.com) · rhdudals0505@naver.com
+rhdudals0505@naver.com
