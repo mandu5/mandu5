@@ -19,4 +19,4 @@ I put AI to work inside real teams and measure it before anyone relies on it.
 | [claude-drift](https://github.com/mandu5/claude-drift) | Replays your Claude Code sessions on a new model to show what changed · PyPI |
 | [jevcompat](https://github.com/mandu5/jevcompat) | Spec and conformance suite for Jev-compatible API servers |
 
-Contact: rhdudals0505@naver.com
+[mandu05.com](https://mandu05.com) · rhdudals0505@naver.com
