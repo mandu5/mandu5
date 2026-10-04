@@ -5,8 +5,9 @@ I put AI to work inside real teams and measure it before anyone relies on it.
 
 **Highlights**
 
-- **Deployment Strategist pilot**: chosen within four months of joining; support 3–4 FDEs in Global Publishing and decide which needs become shared tools
-- **Caught a fake 100%** in a support-ticket AI: on the rebuilt evaluation, legacy rules 2% → mine 72%; Claude labeled 31,000+ tickets at 87%
+- **Took a marketing-reporting tool into internal production**: data validation and server stabilization; the team estimated its monthly reporting work fell from 60 hours to 5
+- **Lead developer of an internal meeting-automation service**: recording, transcription and minutes, from hackathon prototype to internal launch
+- **Data and evaluation for a player-support AI**: labeled 31,000+ Chinese tickets (87% in a random audit) and analyzed 1.44M tickets to size what AI should take on
 - **Sole-author research**: the widely cited 31% metric disagreement is below its 50% chance level · [project page](https://tsad-eval-site.onrender.com/)
 - **Invited panelist, Koderunner 2026** by KakaoBank: putting AI agents to work inside a company
 
