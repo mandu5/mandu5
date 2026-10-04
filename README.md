@@ -7,7 +7,7 @@ I put AI to work inside real teams and measure it before anyone relies on it.
 
 - **Deployment Strategist pilot**: chosen within four months of joining; support 3–4 FDEs in Global Publishing and decide which needs become shared tools
 - **Caught a fake 100%** in a support-ticket AI: on the rebuilt evaluation, legacy rules 2% → mine 72%; Claude labeled 31,000+ tickets at 87%
-- **Sole-author paper, under review at DMLR**: the widely cited 31% metric disagreement is below its 50% chance level · [project page](https://tsad-eval-site.onrender.com/)
+- **Sole-author research**: the widely cited 31% metric disagreement is below its 50% chance level · [project page](https://tsad-eval-site.onrender.com/)
 - **Invited panelist, Koderunner 2026** by KakaoBank: putting AI agents to work inside a company
 
 **Open source**
