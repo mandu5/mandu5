@@ -1,23 +1,26 @@
 ## Youngmin Ko
 
-Forward Deployed Engineer at KRAFTON, Seoul.
-I put AI to work inside real teams and measure it before anyone relies on it.
+Forward Deployed Engineer at KRAFTON, Seoul. Before that, research engineer intern at Hanwha Aerospace; B.S. from Penn State.
 
-**Highlights**
+**Work**
 
-- **Took a marketing-reporting tool into internal production**: data validation and server stabilization; the team estimated its monthly reporting work fell from 60 hours to 5
-- **Lead developer of an internal meeting-automation service**: recording, transcription and minutes, from hackathon prototype to internal launch
-- **Data and evaluation for a player-support AI**: labeled 31,000+ Chinese tickets (87% in a random audit) and analyzed 1.44M tickets to size what AI should take on
-- **Sole-author research**: the widely cited 31% metric disagreement is below its 50% chance level · [project page](https://tsad-eval-site.onrender.com/)
-- **Invited panelist, KodeRunner 2026** by KakaoBank: an FDE panel with OpenAI and Toss · [KakaoBank tech blog](https://tech.kakaobank.com/posts/2609-koderunner2026-reliability/)
+- **Monthly marketing reporting, 60 hours to 5.** Marketers had built a campaign-reporting tool for themselves. I moved it into internal production, validated its figures against the raw source data and fixed sign-in and caching (first load 7.5 s to 1.5 s). The team put its monthly reporting at 5 hours and credited the data validation and server stabilization.
+- **A test set that could not fail.** The first evaluation set for a player-support AI scored 100% even with shuffled answers, because every item was the same ticket type. Launch is now judged only on the tickets two support reviewers labeled alike.
+- **Meeting automation, prototype to launch.** Lead developer from a hackathon prototype to the July launch. When Slack notifications started vanishing in production, traced it to one message being re-edited past Slack's hourly limit.
+
+**Research**
+
+- The 31% rank disagreement between time-series anomaly detection metrics is often cited as a reason to change how detectors are scored. Two unrelated metrics disagree 50% of the time by chance, and where both metrics clearly separate two detectors the rate is 2%. Sole author · [project page](https://tsad-eval-site.onrender.com/)
+- *What Ten Seeds Can and Cannot Resolve About Replay Strategy Selection Under Distribution Shift*, accepted at a NeurIPS 2026 workshop (CL4FMAgents). Sole author.
+- Invited panelist at KodeRunner 2026 (KakaoBank), alongside FDEs from OpenAI and Toss · [KakaoBank tech blog](https://tech.kakaobank.com/posts/2609-koderunner2026-reliability/)
 
 **Open source**
 
 | | |
 |---|---|
-| [jobradar](https://github.com/mandu5/jobradar) | Reads job postings in full and grades them against your own rubric with Claude Code |
-| [sessionreel](https://github.com/mandu5/sessionreel) | Claude Code session log → 30–60 second recap video · PyPI |
+| [jevcompat](https://github.com/mandu5/jevcompat) | A 48-requirement spec and conformance tests for Jev-compatible API servers. Two of the eight most-used servers passed; four maintainers shipped fixes within three days of its reports. |
+| [sessionreel](https://github.com/mandu5/sessionreel) | Turns a coding-agent session log into a one-minute recap and flags runs that only looked successful · PyPI |
 | [claude-drift](https://github.com/mandu5/claude-drift) | Replays your Claude Code sessions on a new model to show what changed · PyPI |
-| [jevcompat](https://github.com/mandu5/jevcompat) | Conformance suite for Jev-compatible API servers · four open-source servers shipped fixes from its reports within three days |
+| [jobradar](https://github.com/mandu5/jobradar) | Reads job postings in full and grades them against your own rubric with Claude Code |
 
 [mandu05.com](https://mandu05.com) · rhdudals0505@naver.com
