@@ -4,9 +4,9 @@ Forward Deployed Engineer at KRAFTON, Seoul. Before that, research engineer inte
 
 **Work**
 
-- **Monthly marketing reporting, 60 hours to 5.** Marketers had built a campaign-reporting tool for themselves. I moved it into internal production, validated its figures against the raw source data and fixed sign-in and caching (first load 7.5 s to 1.5 s). The team put its monthly reporting at 5 hours and credited the data validation and server stabilization.
-- **A test set that could not fail.** The first evaluation set for a player-support AI scored 100% even with shuffled answers, because every item was the same ticket type. Launch is now judged only on the tickets two support reviewers labeled alike.
-- **Meeting automation, prototype to launch.** Lead developer from a hackathon prototype to the July launch. When Slack notifications started vanishing in production, traced it to one message being re-edited past Slack's hourly limit.
+- **Meeting automation.** I lead development and maintenance of a product connecting recording and transcription, source playback and speaker verification, personalized minutes, approved sharing, and owner-linked follow-up actions. Persistent approval and execution state support resuming the same meeting workflow.
+- **Customer support.** I implemented a service connecting privacy masking and ticket classification, official-knowledge retrieval and response drafts, agent review and handoff, and case-level outcome tracking.
+- **Advertising reporting.** I contribute data validation, authentication, deployment migration, and operational stabilization to a business-owned reporting product. My work improves aggregation, caching, title registration, and visibility into execution and delivery.
 
 **Research**
 
