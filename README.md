@@ -21,6 +21,5 @@ Forward Deployed Engineer at KRAFTON, Seoul. Before that, research engineer inte
 | [jevcompat](https://github.com/mandu5/jevcompat) | A 48-requirement spec and conformance tests for Jev-compatible API servers. Two of the eight most-used servers passed; four maintainers shipped fixes within three days of its reports. |
 | [sessionreel](https://github.com/mandu5/sessionreel) | Turns a coding-agent session log into a one-minute recap and flags runs that only looked successful · PyPI |
 | [claude-drift](https://github.com/mandu5/claude-drift) | Replays your Claude Code sessions on a new model to show what changed · PyPI |
-| [jobradar](https://github.com/mandu5/jobradar) | Reads job postings in full and grades them against your own rubric with Claude Code |
 
 [mandu05.com](https://mandu05.com) · rhdudals0505@naver.com
